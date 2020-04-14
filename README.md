@@ -1,24 +1,19 @@
 # vuikit
 
-## Project setup
-```
-yarn install
-```
+> 提供通用常用的 PC vue组件，希望能越来越丰富。
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## 使用方法
 
-### Compiles and minifies for production
-```
-yarn build
-```
 
-### Lints and fixes files
-```
-yarn lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 内置样式说明
+
+- 所有特定样式应该以 `vuk-` 开头，避免污染生产环境。
+
+
+## 待解决的问题
+
+
+
+## todos
+

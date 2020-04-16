@@ -1,10 +1,12 @@
 # vuikit
 
-> 提供通用常用的 PC vue组件，希望能越来越丰富。
+> 提供通用常用的 vue 组件，希望未来能提供的能力越来越丰富。
 
 ## 使用方法
 
-
+```javascript
+import vuikit from 'vuikit'
+```
 
 ## 内置样式说明
 

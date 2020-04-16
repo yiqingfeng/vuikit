@@ -11,5 +11,12 @@ module.exports = {
             filename: 'index.html',
             title: 'vuikit'
         }
+    },
+    configureWebpack: {
+        resolve: {
+            alias: {
+                "@": path.resolve(__dirname, '../', 'examples/')
+            }
+        }
     }
 }
